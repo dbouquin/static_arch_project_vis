@@ -1,21 +1,20 @@
-Proect Name,Size,Start Date,End Date
-ACF ML Shared Environment,M,2024-02-26,2024-07-08
-ANA Disbursement Model,XS,2024-03-19,2024-03-22
-Analyze USG AI Inventory,S,2024-05-20,2024-08-14
-ECD Tribal Home Visit Performance,M,2024-04-03,2024-06-05
-NLP On GFE Testing,M,2024-05-20,2024-08-14
-OA Workforce Engagement Explanation,L,2024-03-11,2024-07-10
-OHS NPRM Comment Analysis,XL,2023-11-13,2024-02-09
-OCC Integrated Dashboards,S,2024-03-29,2024-08-06
-OEA Outreach Lists,S,2024-07-08,2025-08-28
-OFA Policy Knowledge Base Data Migration,M,2024-06-14,2024-10-18
-OFA TANF Longitudinal Dataset,M,2024-10-21,2025-02-26
-OGM Grants Spending Trends,L,2024-03-04,2025-01-29
-OHS PIR Pipeline,L,2023-10-17,2024-05-24
-OPRE Analytics Standards,XS,2023-12-07,2024-03-29
-Qualtrics Learning Resources,XS,2024-03-15,2024-10-07
-Surge Team Code Standards,S,2024-02-17,2024-02-29
-Tableau Learning Resources,M,2024-02-12,2024-10-07
-OHSEPR TANF Service Delivery Data Scrapes,M,2024-08-26,2025-10-25
-Story: ACF Investments Across the Country,M,2024-05-20,2024-08-22
-ORR UC Portal Database Change Management,L,2025-01-27,2025-05-26
+Project Name,Size Percentile,Size,Start Date,End Date
+ACF ML Shared Environment,,M,2024-02-26,2024-07-08
+ANA Disbursement Model,,XS,2024-03-19,2024-03-22
+Analyze USG AI Inventory,,S,2024-05-20,2024-08-14
+ECD Tribal Home Visit Performance,,M,2024-04-03,2024-06-05
+NLP On GFE Testing,,M,2024-05-20,2024-08-14
+OA Workforce Engagement Explanation,,L,2024-03-11,2024-07-10
+OHS NPRM Comment Analysis,,XL,2023-11-13,2024-02-09
+OCC Integrated Dashboards,,S,2024-03-29,2024-08-06
+OEA Outreach Lists,,S,2024-07-08,2024-08-28
+OFA Policy Knowledge Base Data Migration,,M,2024-06-14,2024-10-18
+OFA TANF Longitudinal Dataset,,M,2024-10-21,2025-02-26
+OGM Grants Spending Trends,,L,2024-03-04,2025-01-29
+OHS PIR Pipeline,,L,2023-10-17,2024-05-24
+OPRE Analytics Standards,,XS,2023-12-07,2024-03-29
+Qualtrics Learning Resources,,XS,2024-03-15,2024-10-07
+Surge Team Code Standards,,S,2024-02-12,2024-02-29
+Tableau Learning Resources,,M,2024-02-12,2024-10-07
+OHSEPR TANF Service Delivery Data Scrapes,,M,2024-08-26,2024-10-25
+Story: ACF Investments Across the Country,,M,2024-05-20,2024-08-22
