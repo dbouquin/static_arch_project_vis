@@ -2,21 +2,20 @@ Proect Name,Size,Start Date,End Date
 ACF ML Shared Environment,M,2024-02-26,2024-07-08
 ANA Disbursement Model,XS,2024-03-19,2024-03-22
 Analyze USG AI Inventory,S,2024-05-20,2024-08-14
+ECD Tribal Home Visit Performance,M,2024-04-03,2024-06-05
 NLP On GFE Testing,M,2024-05-20,2024-08-14
-OA Workforce Engagement Explanation,L,2024-03-11,2024-07-10
+OA Workforce Engagement Explanation,L-XL,2024-03-11,2024-07-10
+OHS NPRM Comment Analysis,L-XL,2023-11-13,2024-01-19
+OCC Integrated Dashboards,S,2024-03-29,2024-08-06
 OEA Outreach Lists,M,2024-03-04,2025-01-19
+OFA Policy Knowledge Base Data Migration,M,2024-06-14,2024-10-18
 OFA TANF Longitudinal Dataset,M,2024-07-08,2024-08-28
 OGM Grants Spending Trends,M,2024-03-04,2025-01-29
+OHS PIR Pipeline,L-XL,2023-12-29,2024-05-24
+OPRE Analytics Standards,XS,2023-12-03,2024-03-29
+Qualtrics Learning Resources,XS,2024-03-15,2024-10-07
+Surge Team Code Standards,S,2024-02-17,2024-02-29
+Tableau Learning Resources,M,2024-02-12,2024-10-07
 OHSEPR TANF Service Delivery Data Scrapes,M,2024-08-26,2025-10-25
-OHS NPRM Comment Analysis,XL,2023-11-13,2024-01-19
-OHS NPRM Comment Analysis,XL,2023-11-13,2024-01-19
-OHS PIR Pipeline,L,2023-12-19,2024-05-24
-ORR UC Portal Database Change Management,L,2025-01-27,2025-05-26
-ACF Investments Across The Country,M,2024-02-29,2024-05-20
-Example A,S,2024-05-24,2024-08-24
-Example B,XS,2024-03-02,2024-04-01
-Example C,XL,2023-12-01,2024-07-01
-Example D,L,2023-11-01,2024-07-15
-Example E,XS,2024-05-24,2024-08-15
-Example F,S,2024-03-03,2024-05-26
-Example G,S,2024-05-20,2024-09-05
+Story: ACF Investments Across the Country,M,2024-05-20,2024-08-24
+ORR UC Portal Database Change Management,L-XL,2025-01-27,2025-05-26
