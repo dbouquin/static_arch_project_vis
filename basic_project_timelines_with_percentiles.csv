@@ -1,0 +1,30 @@
+project_name,size_percentile,size,start_date,end_date,category,notes,duration_weeks
+ACF ML Shared Environment,L,M,2024-02-26,2024-07-08,"ML, Cloud Architecture",,19.0
+ANA Disbursement Model,XS,XS,2024-03-19,2024-03-22,Dashboard,,0.42857142857142855
+Analyze USG AI Inventory,S,S,2024-05-20,2024-08-14,"Dashboard, AI",Ask Sankar,12.285714285714286
+ECD Tribal Home Visit Performance,S,M,2024-04-03,2024-06-05,Analytics,,9.0
+NLP On GFE Testing,S,M,2024-05-20,2024-08-14,AI,,12.285714285714286
+OA Workforce Engagement Explanation,L,L,2024-03-11,2024-07-10,Analytics,,17.285714285714285
+OHS NPRM Comment Analysis,M,XL,2023-11-13,2024-02-09,"AI, Dashboard",,12.571428571428571
+OCC Integrated Dashboards,L,S,2024-03-29,2024-08-06,Dashboard,,18.571428571428573
+OEA Outreach Lists,XS,S,2024-07-08,2024-08-28,AI,,7.285714285714286
+OFA Policy Knowledge Base Data Migration,L,M,2024-06-14,2024-10-18,"AI, Dashboard, Data Engineering",,18.0
+OFA TANF Longitudinal Dataset,L,M,2024-10-21,2025-02-26,"Data Engineering, Dashboard",,18.285714285714285
+OGM Grants Spending Trends,XL,L,2024-03-04,2025-01-29,"Dashboard, Data Engineering, ML",Related by data sources to OGM Audit Dashboard,47.285714285714285
+OHS PIR Pipeline,XL,L,2023-10-17,2024-05-24,"Data Engineering, ML, Dashboard, Database",,31.428571428571427
+OPRE Analytics Standards,M,XS,2023-12-07,2024-03-29,"Analytics, Documentation",,16.142857142857142
+Qualtrics Learning Resources,XL,XS,2024-03-15,2024-10-07,Professional Services,,29.428571428571427
+Surge Team Code Standards,XS,S,2024-02-12,2024-02-29,Documentation,,2.4285714285714284
+Tableau Learning Resources,XL,M,2024-02-12,2024-10-07,Professional Services,,34.0
+OHSEPR TANF Service Delivery Data Scrapes,S,M,2024-08-26,2024-10-25,"Web Scraping, AI, Dashboard, Database",,8.571428571428571
+Story: ACF Investments Across the Country,M,M,2024-05-20,2024-08-22,Dashboard,,13.428571428571429
+ACF Credal AI Usage Analytics,XS,M,2025-02-12,2025-04-04,"AI, Dashboard",,7.285714285714286
+ACF Know Your Customer,XS,S,2024-12-03,2024-12-31,AI,,4.0
+OGM Audit Findings Dashboard (Phase I),L,M,2024-09-19,2025-04-08,"AI, Dashboard",Related to OGM Grant Spending Trends; Need clarity on end date,28.714285714285715
+OHSEPR CCDF Service Provider Address Data Aggregation,XS,M,2025-03-18,2025-05-01,Web Scraping,,6.285714285714286
+OH PIR Cloud Migration,XS,M,2025-02-18,2025-04-01,"Data Engineering, ML, Dashboard, Database, Cloud Architecture",Related to PIR Pipeline,6.0
+ORR UC Portal Database Synthetic Data,M,L,2025-02-11,2025-05-09,"Database, Data Engineering",Related to other ORR UC Portal DB,12.428571428571429
+ORR UC Portal Database Schema Delta,M,L,2025-02-11,2025-05-09,"Database, Data Engineering",Related to other ORR UC Portal DB,12.428571428571429
+ORR UC Portal Database Governance MVP,S,M,2024-12-16,2025-03-10,"Database, Data Engineering",Related to other ORR UC Portal DB,12.0
+ORR UC Database Optimization for Analytics,XL,L,2024-03-21,2025-04-08,"Database, Data Engineering",Related to other ORR UC Portal DB; May need two nodes re sizes for phases; Need clarity on end date,54.714285714285715
+ORR UC Database Governance,XL,M,2024-08-19,2025-04-08,"Database, Data Engineering",Related to other ORR UC Portal DB; Need clarity on end date,33.142857142857146

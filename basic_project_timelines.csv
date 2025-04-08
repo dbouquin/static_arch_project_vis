@@ -1,20 +1,30 @@
-Project Name,Size Percentile,Size,Start Date,End Date
-ACF ML Shared Environment,,M,2024-02-26,2024-07-08
-ANA Disbursement Model,,XS,2024-03-19,2024-03-22
-Analyze USG AI Inventory,,S,2024-05-20,2024-08-14
-ECD Tribal Home Visit Performance,,M,2024-04-03,2024-06-05
-NLP On GFE Testing,,M,2024-05-20,2024-08-14
-OA Workforce Engagement Explanation,,L,2024-03-11,2024-07-10
-OHS NPRM Comment Analysis,,XL,2023-11-13,2024-02-09
-OCC Integrated Dashboards,,S,2024-03-29,2024-08-06
-OEA Outreach Lists,,S,2024-07-08,2024-08-28
-OFA Policy Knowledge Base Data Migration,,M,2024-06-14,2024-10-18
-OFA TANF Longitudinal Dataset,,M,2024-10-21,2025-02-26
-OGM Grants Spending Trends,,L,2024-03-04,2025-01-29
-OHS PIR Pipeline,,L,2023-10-17,2024-05-24
-OPRE Analytics Standards,,XS,2023-12-07,2024-03-29
-Qualtrics Learning Resources,,XS,2024-03-15,2024-10-07
-Surge Team Code Standards,,S,2024-02-12,2024-02-29
-Tableau Learning Resources,,M,2024-02-12,2024-10-07
-OHSEPR TANF Service Delivery Data Scrapes,,M,2024-08-26,2024-10-25
-Story: ACF Investments Across the Country,,M,2024-05-20,2024-08-22
+Project Name,Size Percentile,Size,Start Date,End Date,Category,Notes
+ACF ML Shared Environment,,M,2024-02-26,2024-07-08,"ML, Cloud Architecture",
+ANA Disbursement Model,,XS,2024-03-19,2024-03-22,Dashboard,
+Analyze USG AI Inventory,,S,2024-05-20,2024-08-14,"Dashboard, AI",Ask Sankar
+ECD Tribal Home Visit Performance,,M,2024-04-03,2024-06-05,Analytics,
+NLP On GFE Testing,,M,2024-05-20,2024-08-14,AI,
+OA Workforce Engagement Explanation,,L,2024-03-11,2024-07-10,Analytics,
+OHS NPRM Comment Analysis,,XL,2023-11-13,2024-02-09,"AI, Dashboard",
+OCC Integrated Dashboards,,S,2024-03-29,2024-08-06,Dashboard,
+OEA Outreach Lists,,S,2024-07-08,2024-08-28,AI,
+OFA Policy Knowledge Base Data Migration,,M,2024-06-14,2024-10-18,"AI, Dashboard, Data Engineering",
+OFA TANF Longitudinal Dataset,,M,2024-10-21,2025-02-26,"Data Engineering, Dashboard",
+OGM Grants Spending Trends,,L,2024-03-04,2025-01-29,"Dashboard, Data Engineering, ML",Related by data sources to OGM Audit Dashboard
+OHS PIR Pipeline,,L,2023-10-17,2024-05-24,"Data Engineering, ML, Dashboard, Database",
+OPRE Analytics Standards,,XS,2023-12-07,2024-03-29,"Analytics, Documentation",
+Qualtrics Learning Resources,,XS,2024-03-15,2024-10-07,Professional Services,
+Surge Team Code Standards,,S,2024-02-12,2024-02-29,Documentation,
+Tableau Learning Resources,,M,2024-02-12,2024-10-07,Professional Services,
+OHSEPR TANF Service Delivery Data Scrapes,,M,2024-08-26,2024-10-25,"Web Scraping, AI, Dashboard, Database",
+Story: ACF Investments Across the Country,,M,2024-05-20,2024-08-22,Dashboard,
+ACF Credal AI Usage Analytics,,M,2025-02-12,2025-04-04,"AI, Dashboard",
+ACF Know Your Customer,,S,2024-12-03,2024-12-31,AI,
+OGM Audit Findings Dashboard (Phase I),,M,2024-09-19,2025-04-08,"AI, Dashboard",Related to OGM Grant Spending Trends; Need clarity on end date
+OHSEPR CCDF Service Provider Address Data Aggregation,,M,2025-03-18,2025-05-01,Web Scraping,
+OH PIR Cloud Migration,,M,2025-02-18,2025-04-01,"Data Engineering, ML, Dashboard, Database, Cloud Architecture",Related to PIR Pipeline
+ORR UC Portal Database Synthetic Data,,L,2025-02-11,2025-05-09,"Database, Data Engineering",Related to other ORR UC Portal DB
+ORR UC Portal Database Schema Delta,,L,2025-02-11,2025-05-09,"Database, Data Engineering",Related to other ORR UC Portal DB
+ORR UC Portal Database Governance MVP,,M,2024-12-16,2025-03-10,"Database, Data Engineering",Related to other ORR UC Portal DB
+ORR UC Database Optimization for Analytics,,L,2024-03-21,2025-04-08,"Database, Data Engineering",Related to other ORR UC Portal DB; May need two nodes re sizes for phases; Need clarity on end date
+ORR UC Database Governance,,M,2024-08-19,2025-04-08,"Database, Data Engineering",Related to other ORR UC Portal DB; Need clarity on end date
